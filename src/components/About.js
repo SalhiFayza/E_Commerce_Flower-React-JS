@@ -1,4 +1,4 @@
-import React,{Fragment} from 'react';
+import React from 'react';
 import img1 from './images/img-1.jpg';
 import img2 from './images/img-2.jpg';
 import img3 from './images/img-3.jpg';
